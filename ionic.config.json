@@ -1,0 +1,7 @@
+{
+  "name": "polux-inspector-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
